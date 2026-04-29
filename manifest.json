@@ -1,0 +1,45 @@
+{
+    "short_name": "RainCats",
+    "name": "It's Raining Cats! \u2728\ud83d\udc3e",
+    "description": "Catch the kitties and avoid the fireworks in this kawaii arcade game!",
+    "icons": [
+        {
+            "src": "orange.PNG",
+            "type": "image/png"
+        },
+        {
+            "src": "mainecoon.PNG",
+            "type": "image/png"
+        },
+        {
+            "src": "gray.PNG",
+            "type": "image/png"
+        },
+                {
+            "src": "black.PNG",
+            "type": "image/png"
+        },
+                {
+            "src": "white.PNG",
+            "type": "image/png"
+        },
+        {
+            "src": "firework.PNG",
+            "type": "image/png"
+        },
+        {
+            "src": "firework1.PNG",
+            "type": "image/png"
+        },
+        {
+            "src": "basket.PNG",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "./index.html",
+    "background_color": "#FFD1DC",
+    "display": "standalone",
+    "scope": "./",
+    "theme_color": "#7D5BA6",
+    "orientation": "portrait"
+}
